@@ -29,7 +29,6 @@
   "bugs": {
     "url": "https://github.com/Polygon-Academy/starter-kits.git/issues"
   },
-
   "dependencies": {
     "@ethersproject/providers": "^5.4.3",
     "@testing-library/jest-dom": "^5.14.1",
@@ -46,6 +45,7 @@
     "react-scripts": "4.0.3",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.0.3",
+    "truffle": "^5.5.28",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
