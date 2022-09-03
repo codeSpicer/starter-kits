@@ -31,7 +31,6 @@ function App() {
             />
             <p>Create React Ethereum DApp on Polygon</p>
             <p>Build your first app with Starter Kits</p>
-            <h1>hello world</h1>
           </Container>
         </Content>
         <Footer />
